@@ -1,0 +1,12 @@
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.deps.json
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.csprojAssemblyReference.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.AssemblyInfoInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.AssemblyInfo.cs
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.csproj.CoreCompileInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.csproj.CopyComplete
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Context\obj\Debug\netcoreapp3.1\EvaluationProduct.Context.pdb

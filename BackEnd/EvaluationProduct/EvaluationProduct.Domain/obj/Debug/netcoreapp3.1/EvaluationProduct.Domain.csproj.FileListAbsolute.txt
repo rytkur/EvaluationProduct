@@ -1,0 +1,9 @@
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.deps.json
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.csprojAssemblyReference.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.AssemblyInfoInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.AssemblyInfo.cs
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.csproj.CoreCompileInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Domain\obj\Debug\netcoreapp3.1\EvaluationProduct.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Data.deps.json
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Data.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Data.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.csprojAssemblyReference.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.AssemblyInfoInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.AssemblyInfo.cs
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.csproj.CoreCompileInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.csproj.CopyComplete
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Data\obj\Debug\netcoreapp3.1\EvaluationProduct.Data.pdb

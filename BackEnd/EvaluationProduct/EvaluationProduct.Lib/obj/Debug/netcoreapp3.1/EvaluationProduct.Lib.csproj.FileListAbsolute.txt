@@ -1,0 +1,16 @@
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Lib.deps.json
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Lib.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Lib.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Data.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Data.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Domain.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\bin\Debug\netcoreapp3.1\EvaluationProduct.Context.pdb
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.csprojAssemblyReference.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.AssemblyInfoInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.AssemblyInfo.cs
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.csproj.CoreCompileInputs.cache
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.csproj.CopyComplete
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.dll
+C:\Users\riyantku\Documents\AngularTest\Evaluation\BackEnd\EvaluationProduct\EvaluationProduct.Lib\obj\Debug\netcoreapp3.1\EvaluationProduct.Lib.pdb
